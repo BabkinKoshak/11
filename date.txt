@@ -1,3 +1,5 @@
 class Date{
+int day;
+int hour;
 
 };
